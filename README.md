@@ -11,6 +11,7 @@ The notebook includes:
 - Performance evaluation and comparison with the baseline.
 
 ## Dataset
+- The dataset is very large to be uploaded here in GIT. Pls download it from the link given and change the path as nec essary.
 - **Credit Card Fraud Detection Dataset** from Kaggle: [Link](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)  
 - Highly imbalanced, with few fraudulent transactions.
 
@@ -32,7 +33,7 @@ The notebook includes:
 - Provide final recommendation on GMM effectiveness.
 
 ## Usage
-1. Place `creditcard.csv` in `data/` folder.
+1. Download creditcard.csv from the kaggle link.
 2. Run `Assignment 4.ipynb` in Jupyter Notebook.
 3. Required libraries:
 ```bash
